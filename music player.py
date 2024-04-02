@@ -8,7 +8,7 @@ Prerequisite: Just have a directory of mp3 files
 
 Note1: This project is made on mobile...and accordingly the dimensions and coordinates are taken ..Try to adjust for yours...
 
-Note 2 : pygame cannot work in baground whioe you are running any other application
+Note 2 : pygame cannot work in baground while you are running any other application and make sure that you have supporting files in your directory 
 
 
 Feel free to raise your updates... 
